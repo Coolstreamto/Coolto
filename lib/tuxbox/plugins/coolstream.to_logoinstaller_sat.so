@@ -1,0 +1,9 @@
+#!/bin/sh
+
+#Installation im Hintergrund ausfuehren:
+/lib/tuxbox/plugins/coolstream.to_logoinstaller_sat.sh &
+
+exit 0
+
+
+# Visit: www.coolstream.to
