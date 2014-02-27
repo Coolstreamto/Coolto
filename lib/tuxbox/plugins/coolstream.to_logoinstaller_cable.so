@@ -1,9 +1,0 @@
-#!/bin/sh
-
-#Installation im Hintergrund ausfuehren:
-/lib/tuxbox/plugins/coolstream.to_logoinstaller_cable.sh &
-
-exit 0
-
-
-# Visit: www.coolstream.to
